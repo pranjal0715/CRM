@@ -114,7 +114,3 @@ crm-system/
 ```
 Email: admin@example.com
 Password: admin123
-```
-
-## License
-MIT
