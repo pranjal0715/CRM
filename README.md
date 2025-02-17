@@ -1,6 +1,6 @@
 # Basic CRM System
 
-A simple CRM system built with Next.js (frontend) and Express.js (backend) to manage client data and interactions.
+A simple CRM system built with Next.js (frontend) and Express.js (backend) to manage client data and interactions with modern dashboard and reporting facilities.
 
 ## Features
 
